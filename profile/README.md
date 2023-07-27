@@ -11,7 +11,7 @@
 | 회장 | 부회장 | 총무 | 교육운영진장 | 홍보대장 | 트랙대장 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 |[<img src="https://github.com/ppocchi.png" width="100px">](https://github.com/ppocchi) | [<img src="" width="100px">](https://github.com/) |[<img src="https://github.com/gidskql6671.png" width="100px">](https://github.com/gidskql6671) |[<img src="https://github.com/yooonwodyd.png" width="100px">](https://github.com/yooonwodyd) |[<img src="https://github.com/Kwonnaye.png" width="100px">](https://github.com/Kwonnaye) |[<img src="" width="100px">](https://github.com/)| 
-| [김아진](./https://github.com/ppocchi) | [김은정](./) | [김동환](./https://github.com/gidskql6671) | [윤재용](./) | [권나예](./) | [박기현](./) |
+| 김아진 | 김은정| 김동환 | 윤재용 | 권나예 | 박기현 |
 
 ### <img src="https://velog.velcdn.com/images/ppocchi/post/e586ae51-9913-42e3-b0c3-f27aea691009/image.png" width="18px"> 인스타그램
 ##### 해달 인스타
