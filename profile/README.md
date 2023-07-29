@@ -22,5 +22,5 @@
 ##### 해달 오누이 인스타
 > 오 누가 이걸 몰라! 해달에서 알려주는 알아두면 언젠간 쓸모있는 재미있는 IT 지식
 
-[@knu.haedal](https://www.instagram.com/knu.haedal_it/)
+[@knu.haedal_it](https://www.instagram.com/knu.haedal_it/)
 
