@@ -11,7 +11,7 @@
 | 회장 | 부회장 | 총무 | 교육운영진장 | 홍보부장 | 트랙조직위원장 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 |[<img src="https://github.com/Kwonnaye.png" width="100px">](https://github.com/Kwonnaye) | [<img src="https://github.com/kiryanchi.png" width="100px">](https://github.com/kiryanchi) |[<img src="https://github.com/lko6981111.png" width="100px">](https://github.com/lko6981111) |[<img src="https://github.com/Koeunsaem.png" width="100px">](https://github.com/Koeunsaem) |[<img src="https://github.com/swisdom784.png" width="100px">](https://github.com/swisdom784) |[<img src="https://github.com/rnjs5540.png" width="100px">](https://github.com/rnjs5540)| 
-| 권나예 | 박기현 | 이창석 | 고은샘 | 서지혜 | 권용민 |
+| 권나예 | 박기현 | 이창석 | 고은샘 | 서지혜 | 권용민 |
 
 ### <img src="https://velog.velcdn.com/images/ppocchi/post/e586ae51-9913-42e3-b0c3-f27aea691009/image.png" width="18px"> 인스타그램
 ##### 해달 인스타
