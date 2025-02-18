@@ -10,7 +10,7 @@
 
 | 회장 | 부회장 | 총무 | 교육운영진장 | 홍보부장 | 트랙조직위원장 | 기술관리부장 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-|[<img src="https://github.com/swisdom784.png" width="100px">](https://github.com/swisdom784) | [<img src="https://github.com/thdgmlwns1.png" width="100px">](https://github.com/thdgmlwns1) |[<img src="https://github.com/ezzkimm.png" width="100px">](https://github.com/ezzkimm) |[<img src="https://github.com/churaly.png" width="100px">](https://github.com/churaly) |[<img src="https://github.com/pigmal24.png" width="100px">](https://github.com/pigmal24) |[<img src="https://github.com/ysh020702.png" width="100px">](https://github.com/ysh020702)| [<img src="https://github.com/rnjs5540.png" width="100px">](https://github.com/rnjs5540)| 
+|[<img src="https://github.com/swisdom784.png" width="100px">](https://github.com/swisdom784) | [<img src="https://github.com/thdgmlwns1.png" width="100px">](https://github.com/thdgmlwns1) |[<img src="https://github.com/ezzkimm.png" width="100px">](https://github.com/ezzkimm) |[<img src="https://github.com/churaly.png" width="100px">](https://github.com/churaly) |[<img src="https://github.com/pigmal24.png" width="100px">](https://github.com/pigmal24) |[<img src="https://github.com/ysh020702.png" width="100px">](https://github.com/ysh020702)| [<img src="https://github.com/rnjs5540.png" width="100px">](https://github.com/rnjs5540)| 
 | 서지혜 | 송희준 | 김은정 | 김민지 | 최연우 | 양승환 | 권용민 |
 
 ### <img src="https://velog.velcdn.com/images/ppocchi/post/e586ae51-9913-42e3-b0c3-f27aea691009/image.png" width="18px"> 인스타그램
