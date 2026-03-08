@@ -6,12 +6,12 @@
 🎓 부트캠프 💡아이디어톤 🏆 해커톤 📚 트랙 🔎 소모임 🏁 프로젝트
 
 ### 👑 해구르르
-> 2025학년도 해달 운영진
+> 2026학년도 해달 운영진
 
 | 회장 | 부회장 | 총무 | 교육운영진장 | 홍보부장 | 트랙조직위원장 | 기술관리부장 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-|[<img src="https://github.com/swisdom784.png" width="100px">](https://github.com/swisdom784) | [<img src="https://github.com/thdgmlwns1.png" width="100px">](https://github.com/thdgmlwns1) |[<img src="https://github.com/ezzkimm.png" width="100px">](https://github.com/ezzkimm) |[<img src="https://github.com/churaly.png" width="100px">](https://github.com/churaly) |[<img src="https://github.com/pigmal24.png" width="100px">](https://github.com/pigmal24) |[<img src="https://github.com/ysh020702.png" width="100px">](https://github.com/ysh020702)| [<img src="https://github.com/rnjs5540.png" width="100px">](https://github.com/rnjs5540)| 
-| 서지혜 | 송희준 | 김은정 | 김민지 | 최연우 | 양승환 | 권용민 |
+| [<img src="https://github.com/pigmal24.png" width="100px">](https://github.com/pigmal24) | [<img src="https://github.com/HJTN.png" width="100px">](https://github.com/HJTN) | [<img src="https://github.com/g1new.png" width="100px">](https://github.com/g1new) | [<img src="https://github.com/Edmondsu25.png" width="100px">](https://github.com/Edmondsu25) | [<img src="https://github.com/Leechaemin12.png" width="100px">](https://github.com/Leechaemin12) | [<img src="https://github.com/hae-tae.png" width="100px">](https://github.com/hae-tae) | [<img src="https://github.com/juyounginpark.png" width="100px">](https://github.com/juyounginpark) | 
+| 최연우 | 허진수 | 신지원 | 하수연 | 이채민 | 김태희 | 박주영 |
 
 ### <img src="https://velog.velcdn.com/images/ppocchi/post/e586ae51-9913-42e3-b0c3-f27aea691009/image.png" width="18px"> 인스타그램
 ##### 해달 인스타
